@@ -1,0 +1,12 @@
+Z:\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\bin\Debug\FindTheArtist.exe.config
+Z:\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\bin\Debug\FindTheArtist.exe
+Z:\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\bin\Debug\FindTheArtist.pdb
+Z:\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\obj\Debug\FindTheArtist.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\obj\Debug\FindTheArtist.exe
+Z:\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\obj\Debug\FindTheArtist.pdb
+\\siam2\user2\janell\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\bin\Debug\FindTheArtist.exe.config
+\\siam2\user2\janell\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\obj\Debug\FindTheArtist.exe
+\\siam2\user2\janell\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\obj\Debug\FindTheArtist.pdb
+\\siam2\user2\janell\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\bin\Debug\FindTheArtist.exe
+\\siam2\user2\janell\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\bin\Debug\FindTheArtist.pdb
+\\siam2\user2\janell\Visual Studio 2015\Projects\FindTheArtist\FindTheArtist\obj\Debug\FindTheArtist.csprojResolveAssemblyReference.cache
